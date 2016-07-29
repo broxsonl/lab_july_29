@@ -31,4 +31,21 @@ body {
 
 .recipe {
   background-image: url("../img/list-bg.png");
+  display:flex;
+  width: 900px;
+}
+.recipeRight {
+
+}
+.footer {
+display: flex;
+}
+.bio-text {
+  float: left;
+}
+.copyright {
+  display: flex;
+}
+.shareButton {
+  float: right;
 }
