@@ -34,9 +34,6 @@ body {
   display:flex;
   width: 900px;
 }
-.recipeRight {
-
-}
 .footer {
 display: flex;
 }
@@ -46,6 +43,6 @@ display: flex;
 .copyright {
   display: flex;
 }
-.shareButton {
+/*.shareButton {
   float: right;
-}
+}*/
