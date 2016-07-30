@@ -4,11 +4,30 @@
   width: 900px;
 }
 .footer {
-display: flex;
+  display: flex;
 }
 .bio-text {
   float: left;
 }
 .copyright {
   display: flex;
+}
+.shareButton {
+  width: 40px;
+  height: 10px;
+  float: right;
+}
+.recipe {
+position:relative;
+}
+.recipe li {
+  list-style-type: square;
+}
+
+.recipeLeft {
+  justify-content: flex-start;
+}
+
+.recipeRight {
+  justify-content: flex-end;
 }
